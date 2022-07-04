@@ -1,2 +1,0 @@
-// Palindrome with Int
-
