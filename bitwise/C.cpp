@@ -7,5 +7,6 @@ int main (){
 	bool ans = nums & (1<<n-1);
 
 	cout <<ans<<endl;
+	cout <<0xff<<endl;
 	return 0;
 }
